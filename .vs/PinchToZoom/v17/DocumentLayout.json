@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SCHOOL\\2023-2ndSem\\PinchToZoom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEA3EB2-688D-4EDC-88DB-B32D17757D17}|PinchToZoom\\PinchToZoom.csproj|d:\\school\\2023-2ndsem\\pinchtozoom\\pinchtozoom\\pinchtozoomcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEA3EB2-688D-4EDC-88DB-B32D17757D17}|PinchToZoom\\PinchToZoom.csproj|solutionrelative:pinchtozoom\\pinchtozoomcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEA3EB2-688D-4EDC-88DB-B32D17757D17}|PinchToZoom\\PinchToZoom.csproj|d:\\school\\2023-2ndsem\\pinchtozoom\\pinchtozoom\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEA3EB2-688D-4EDC-88DB-B32D17757D17}|PinchToZoom\\PinchToZoom.csproj|solutionrelative:pinchtozoom\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEA3EB2-688D-4EDC-88DB-B32D17757D17}|PinchToZoom\\PinchToZoom.csproj|d:\\school\\2023-2ndsem\\pinchtozoom\\pinchtozoom\\pinchtozoom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EBEA3EB2-688D-4EDC-88DB-B32D17757D17}|PinchToZoom\\PinchToZoom.csproj|solutionrelative:pinchtozoom\\pinchtozoom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEA3EB2-688D-4EDC-88DB-B32D17757D17}|PinchToZoom\\PinchToZoom.csproj|d:\\school\\2023-2ndsem\\pinchtozoom\\pinchtozoom\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EBEA3EB2-688D-4EDC-88DB-B32D17757D17}|PinchToZoom\\PinchToZoom.csproj|solutionrelative:pinchtozoom\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEA3EB2-688D-4EDC-88DB-B32D17757D17}|PinchToZoom\\PinchToZoom.csproj|d:\\school\\2023-2ndsem\\pinchtozoom\\pinchtozoom\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EBEA3EB2-688D-4EDC-88DB-B32D17757D17}|PinchToZoom\\PinchToZoom.csproj|solutionrelative:pinchtozoom\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEA3EB2-688D-4EDC-88DB-B32D17757D17}|PinchToZoom\\PinchToZoom.csproj|d:\\school\\2023-2ndsem\\pinchtozoom\\pinchtozoom\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEA3EB2-688D-4EDC-88DB-B32D17757D17}|PinchToZoom\\PinchToZoom.csproj|solutionrelative:pinchtozoom\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEA3EB2-688D-4EDC-88DB-B32D17757D17}|PinchToZoom\\PinchToZoom.csproj|d:\\school\\2023-2ndsem\\pinchtozoom\\pinchtozoom\\extensions\\doubleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEA3EB2-688D-4EDC-88DB-B32D17757D17}|PinchToZoom\\PinchToZoom.csproj|solutionrelative:pinchtozoom\\extensions\\doubleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEA3EB2-688D-4EDC-88DB-B32D17757D17}|PinchToZoom\\PinchToZoom.csproj|d:\\school\\2023-2ndsem\\pinchtozoom\\pinchtozoom\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEA3EB2-688D-4EDC-88DB-B32D17757D17}|PinchToZoom\\PinchToZoom.csproj|solutionrelative:pinchtozoom\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\SCHOOL\\2023-2ndSem\\PinchToZoom\\PinchToZoom\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "PinchToZoom\\MauiProgram.cs",
+              "ToolTip": "D:\\SCHOOL\\2023-2ndSem\\PinchToZoom\\PinchToZoom\\MauiProgram.cs",
+              "RelativeToolTip": "PinchToZoom\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:49:36.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PinchToZoomContainer.cs",
+              "DocumentMoniker": "D:\\SCHOOL\\2023-2ndSem\\PinchToZoom\\PinchToZoom\\PinchToZoomContainer.cs",
+              "RelativeDocumentMoniker": "PinchToZoom\\PinchToZoomContainer.cs",
+              "ToolTip": "D:\\SCHOOL\\2023-2ndSem\\PinchToZoom\\PinchToZoom\\PinchToZoomContainer.cs",
+              "RelativeToolTip": "PinchToZoom\\PinchToZoomContainer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T05:48:33.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PinchToZoom.csproj",
+              "DocumentMoniker": "D:\\SCHOOL\\2023-2ndSem\\PinchToZoom\\PinchToZoom\\PinchToZoom.csproj",
+              "RelativeDocumentMoniker": "PinchToZoom\\PinchToZoom.csproj",
+              "ToolTip": "D:\\SCHOOL\\2023-2ndSem\\PinchToZoom\\PinchToZoom\\PinchToZoom.csproj",
+              "RelativeToolTip": "PinchToZoom\\PinchToZoom.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-14T05:29:13.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\SCHOOL\\2023-2ndSem\\PinchToZoom\\PinchToZoom\\AppShell.xaml",
+              "RelativeDocumentMoniker": "PinchToZoom\\AppShell.xaml",
+              "ToolTip": "D:\\SCHOOL\\2023-2ndSem\\PinchToZoom\\PinchToZoom\\AppShell.xaml",
+              "RelativeToolTip": "PinchToZoom\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T12:50:28.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\SCHOOL\\2023-2ndSem\\PinchToZoom\\PinchToZoom\\App.xaml",
+              "RelativeDocumentMoniker": "PinchToZoom\\App.xaml",
+              "ToolTip": "D:\\SCHOOL\\2023-2ndSem\\PinchToZoom\\PinchToZoom\\App.xaml",
+              "RelativeToolTip": "PinchToZoom\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T12:49:14.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\SCHOOL\\2023-2ndSem\\PinchToZoom\\PinchToZoom\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PinchToZoom\\App.xaml.cs",
+              "ToolTip": "D:\\SCHOOL\\2023-2ndSem\\PinchToZoom\\PinchToZoom\\App.xaml.cs",
+              "RelativeToolTip": "PinchToZoom\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T05:28:11.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoubleExtensions.cs",
+              "DocumentMoniker": "D:\\SCHOOL\\2023-2ndSem\\PinchToZoom\\PinchToZoom\\Extensions\\DoubleExtensions.cs",
+              "RelativeDocumentMoniker": "PinchToZoom\\Extensions\\DoubleExtensions.cs",
+              "ToolTip": "D:\\SCHOOL\\2023-2ndSem\\PinchToZoom\\PinchToZoom\\Extensions\\DoubleExtensions.cs",
+              "RelativeToolTip": "PinchToZoom\\Extensions\\DoubleExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T05:30:13.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\SCHOOL\\2023-2ndSem\\PinchToZoom\\PinchToZoom\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "PinchToZoom\\AppShell.xaml.cs",
+              "ToolTip": "D:\\SCHOOL\\2023-2ndSem\\PinchToZoom\\PinchToZoom\\AppShell.xaml.cs",
+              "RelativeToolTip": "PinchToZoom\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:21:11.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

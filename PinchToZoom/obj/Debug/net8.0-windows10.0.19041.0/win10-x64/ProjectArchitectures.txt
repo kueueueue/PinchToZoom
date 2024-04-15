@@ -1,0 +1,1 @@
+D:\SCHOOL\2023-2ndSem\MOBDEV\PinchToZoom\PinchToZoom\PinchToZoom.csproj;x64
